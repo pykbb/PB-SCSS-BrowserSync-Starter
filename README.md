@@ -1,4 +1,4 @@
-# MyStarter-SCSS-BrowserSync
+# PB-Starter-SCSS-BrowserSync
 
 `rm -rf .git*`
 
