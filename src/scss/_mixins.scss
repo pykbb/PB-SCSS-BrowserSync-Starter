@@ -36,7 +36,6 @@ $morethanhd: 1921px;
 }
 
 // MAX
-
 @mixin msm {
   @media (max-width: #{$smartphone-width}) {
     @content;
